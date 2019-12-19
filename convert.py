@@ -225,10 +225,10 @@ class RtsConvert(ApplicationUtil):
 
     def write_inventory(self):
         su = StringUtil()
-        inventory_output_file = self._d.asnamedtuple.outputInventoryFile
+        inventory_output_file = self.yaml_entry('outputInventoryFile')
         self.logger.debug(f'Writing inventory file: {inventory_output_file}')
-        max_rows = self._d.asnamedtuple.maxLines
-        # self.pu.write_df_to_excel(df=self._df_inv, excelFileName=inventory_output_file, excelWorksheet='RTS Vendors')
+        max_rows = self.yaml_entry('maxLines')
+
         little_dfs = DataFrameSplit(my_df=self._df_inv, interval=max_rows)
         combined_sizes = 0
         for i, df in enumerate(little_dfs):

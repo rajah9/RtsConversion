@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a355a87-c5d3-4806-a981-f354950fed8a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/RtsConversion/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +26,14 @@
         <option value="Rajah Chacko &lt;rajah@alumni.duke.edu&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RtsConversion" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Owner\PycharmProjects\RtsConversion\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1UkqJdj7cEfqZuz5H00xubFjh6Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,7 +54,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -219,7 +230,7 @@
       <workItem from="1576443926421" duration="34191000" />
       <workItem from="1576685561483" duration="1702000" />
       <workItem from="1576695782100" duration="3883000" />
-      <workItem from="1576716332966" duration="5957000" />
+      <workItem from="1576716332966" duration="7158000" />
     </task>
     <servers />
   </component>
@@ -275,10 +286,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="450" y="117" width="868" height="583" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1576616543826" />
-    <state x="305" y="0" width="755" height="489" key="CommitChangelistDialog2" timestamp="1576722530729">
+    <state x="305" y="0" width="755" height="489" key="CommitChangelistDialog2" timestamp="1576723608291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="305" y="0" width="755" height="489" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576722530729" />
+    <state x="305" y="0" width="755" height="489" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576723608290" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1576699927967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -319,10 +330,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1286" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576721871623" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1576699943853">
+    <state x="186" y="9" key="SettingsEditor" timestamp="1576723003957">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576699943853" />
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576723003957" />
     <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1576716468151">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
