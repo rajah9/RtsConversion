@@ -1,0 +1,54 @@
+inputVendorFile: C:\Users\Owner\PycharmProjects\RtsConversion\data\IBID Vendor Database all 120519.xls
+outputVendorFile: C:\Users\Owner\PycharmProjects\RtsConversion\data\Lightspeed Vendors.xls
+maxLines: 1000
+vendorMapping:
+  SAN: Account number
+  Contact_fn: Contact first name
+  Address: Address 1
+  Phone: Work phone
+  Name: Vendor name
+  Contact_Ln: Contact last name
+  Addr_2: Address 2
+  Ext: Mobile
+  email: E-Mail 1
+  City: City
+  St: State
+  Zip: Zip
+  Fax: Fax
+inputInventoryFile: C:\Users\Owner\PycharmProjects\RtsConversion\data\IBID insertion spreadsheet all records 121619 morning.xlsx
+outputInventoryFile: C:\Users\Owner\PycharmProjects\RtsConversion\data\Lightspeed Import_##.xls
+inventoryMapping:
+  ItemCode: EAN
+  Title: Description
+  Author: XX
+  Vendor: Vendor
+  Publisher: XX
+  Cat1: Category
+  Cat2: Subcategory 1
+  Misc1: Discountable
+  Misc2: XX
+  ListPrice: MSRP - Price
+  CostPrice: Default Cost
+  OnHand: Shop Quantity on Hand
+  SellPrice: Default - Price 
+  code_len: XX
+titleCapitalization: title
+authorCapitalization: allcaps
+inputCustomerFile: C:\Users\Owner\PycharmProjects\RtsConversion\data\IBID Customer Database all 120519.xls
+customerMapping:
+  Account: Custom
+  First Name: First name
+  Address Line 1: Address 1
+  Phone 1: Work phone
+  Organization: Company
+  Last Name: Last name
+  Address Line 2: Address 2
+  Phone2: XX
+  SAN: XX
+  Email: E-Mail
+  City: City
+  St: State
+  Zip: Zip Code
+  Fax: Fax
+outputCustomerFile: C:\Users\Owner\PycharmProjects\RtsConversion\data\Lightspeed Customers.xls
+outputSuspenseFile: C:\Users\Owner\PycharmProjects\RtsConversion\data\Lightspeed misfits.xls
